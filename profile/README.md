@@ -8,7 +8,7 @@
 
 ## About
 - 🇨🇳 Guangdong, China
-- 🌍 zh-CN / en-US / zh-CN-Hakkka / zh-CN-ChewChou
+- 🌍 zh-CN / en-US / zh-CN(Hakka) / zh-CN(ChewChou)
 - 📖 A Club of www.cysy.com.cn
 - 🌱 A Team of Go, C/C++, Java, Rust, Vue.js, etc.
 - 💻 Digital fans
