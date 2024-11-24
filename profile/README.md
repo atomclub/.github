@@ -36,7 +36,7 @@
 ![Redmi N11TP+](https://img.shields.io/badge/Redmi%20N11TP+-ff6900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![iQOO Neo7 SE](https://img.shields.io/badge/iQOO%20Neo7%20SE-3498DB?style=flat-square&logo=vivo&logoColor=ffffff)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lang and Tools:</h3>
 
 
 <p align="left"> 
