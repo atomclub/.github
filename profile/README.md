@@ -10,7 +10,7 @@
 - 🇨🇳 Guangdong, China
 - 🌍 zh-CN / en-US / zh-CN(Hakka) / zh-CN(ChewChou)
 - 📖 A Club of www.cysy.com.cn
-- 🌱 A Team of Go, C/C++, Java, Rust, Vue.js, etc.
+- 🌱 A Team of Go, C/C++, Java, Vue.js, etc.
 - 💻 Digital fans
 - 🔨 Now building web apps
 - Our website --> www.aic.moonlink.sbs
