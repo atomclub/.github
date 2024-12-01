@@ -13,7 +13,7 @@
 - 🌱 A Team of Go, C/C++, Java, Vue.js, etc.
 - 💻 Digital fans
 - 🔨 Now building web apps
-- Our website --> www.aic.moonlink.sbs
+- Our website --> <aic.moonlink.sbs>
 
 ## Contact us
 [![Bilibili](https://img.shields.io/badge/Bilibili-fb7299?logo=bilibili&logoColor=fff)](https://space.bilibili.com/3493095312197931)
