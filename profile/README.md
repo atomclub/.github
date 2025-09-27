@@ -1,7 +1,6 @@
 
 <h1 align = center> 原子信息社区</h1>
-<h3 align="center">2 0 2 4  |  探索计算的无限可能</h3>
-
+<h3 align="center">2 0 2 5  |  重铸共同体的价值 </h3>
 <h3 align="center">Hi there👋, it's Atom IT Club here</h3>
 <h3 align="center">Exploring the countless possibilities of computing</h3>
 <h3 align="center">Suriving is our main work</h3>
