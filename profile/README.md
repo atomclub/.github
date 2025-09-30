@@ -1,9 +1,9 @@
 
 <h1 align = center> 原子信息社区</h1>
-<h3 align="center">2 0 2 5  |  重铸共同体的价值 </h3>
-<h3 align="center">Hi there👋, it's Atom IT Club here</h3>
-<h3 align="center">Exploring the countless possibilities of computing</h3>
-<h3 align="center">Suriving is our main work</h3>
+<h3 align="center">2 0 2 5 . 9 . 30   |  重铸共同体的价值 </h3>
+<h3 align="center">Hi there👋, Atoms were once here</h3>
+<h3 align="center">Suriving had been our main work</h3>
+<h3 align="center">End of the story, epic sky.</h3>
 
 ## About
 - 🇨🇳 Guangdong, China
