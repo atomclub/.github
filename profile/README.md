@@ -2,7 +2,7 @@
 <h1 align = center> 原子信息社</h1>
 <h3 align="center"> SINCE 2024 |  探索计算的无限可能 </h3>
 <h3 align="center">Hi there👋, it's ATOM IT CLUB here</h3>
-<h3 align="center">Suriving is our major work</h3>
+<h3 align="center">Suriving is our major task</h3>
 
 ## About
 - 🇨🇳 Guangdong, China
