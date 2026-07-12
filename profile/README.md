@@ -13,11 +13,6 @@
 - 🔨 Now building web apps
 - Our website --> [aic.moonlink.sbs](aic.moonlink.sbs)
 
-## Contact us
-[![Bilibili](https://img.shields.io/badge/Bilibili-fb7299?logo=bilibili&logoColor=fff)](https://space.bilibili.com/3493095312197931)
-[![Steam](https://img.shields.io/badge/Steam-14487b.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/sye_rain/)
-
-
 ## Platforms
 ![macOS Sequoia](https://img.shields.io/badge/macOS%20Sequoia-000000?logo=apple&logoColor=F0F0F0)
 ![macOS Sonoma](https://img.shields.io/badge/MacOS%20Sonoma-a2aaad?logo=apple&logoColor=F0F0F0)
