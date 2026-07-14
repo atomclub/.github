@@ -14,7 +14,7 @@
 - Our website --> [aic.moonlink.cc](aic.moonlink.cc)
 
 ## Platforms
-![macOS](https://img.shields.io/badge/macOS%20Sequoia-000000?logo=apple&logoColor=F0F0F0)
+![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-3EA5D9?logo=archlinux&logoColor=fff)
 ![Debian](https://img.shields.io/badge/Debian%20-A81D33?logo=debian&logoColor=fff)
 ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=ffffff)
