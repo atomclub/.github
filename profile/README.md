@@ -11,7 +11,7 @@
 - 🌱 A Team of Go, C/C++, Java, Vue.js, etc.
 - 💻 Digital fans
 - 🔨 Now building web apps
-- Our website --> [aic.moonlink.sbs](aic.moonlink.cc)
+- Our website --> [aic.moonlink.cc](aic.moonlink.cc)
 
 ## Platforms
 ![macOS Sequoia](https://img.shields.io/badge/macOS%20Sequoia-000000?logo=apple&logoColor=F0F0F0)
