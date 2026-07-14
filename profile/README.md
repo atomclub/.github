@@ -18,8 +18,8 @@
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-3EA5D9?logo=archlinux&logoColor=fff)
 ![Debian](https://img.shields.io/badge/Debian%20-A81D33?logo=debian&logoColor=fff)
 ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=ffffff)
-![Android](https://img.shields.io/badge/Android%2015-3DDC84?logo=android&logoColor=white)
-![Windows](https://custom-icon-badges.demolab.com/badge/Windows%2011-0078D6?logo=windows11&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
 
 <!---
 ## Devices
