@@ -8,7 +8,7 @@
 - 🇨🇳 Guangdong, China
 - 🌍 zh-CN / en-US / zh-CN(Hakka) / zh-CN(ChewChou)
 - 📖 A Club of www.cysy.com.cn
-- 🌱 A Team of Go, C/C++, Java, Vue.js, etc.
+- 🌱 A Team of Go, C/C++, Kotlin, Vue.js etc.
 - 💻 Digital fans
 - 🔨 Now building web apps
 - Our website --> [aic.moonlink.cc](aic.moonlink.cc)
@@ -21,6 +21,7 @@
 ![Android](https://img.shields.io/badge/Android%2015-3DDC84?logo=android&logoColor=white)
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows%2011-0078D6?logo=windows11&logoColor=white)
 
+<!---
 ## Devices
 ![Windows PC](https://custom-icon-badges.demolab.com/badge/Windows%20PC%209900K-0078D6?logo=windows11&logoColor=white)
 ![Windows PC](https://custom-icon-badges.demolab.com/badge/Windows%20PC%2012600K-0078D6?logo=windows11&logoColor=white)
@@ -36,7 +37,7 @@
 ![Xiaomi 9CC](https://img.shields.io/badge/Xiaomi%209CC-ff6900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi 14 Ultra](https://img.shields.io/badge/Xiaomi%2014%20Ultra-ff6900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![iQOO Neo7 SE](https://img.shields.io/badge/iQOO%20Neo7%20SE-3498DB?style=flat-square&logo=vivo&logoColor=ffffff)
-
+--->
 <h3 align="left">Langs and Tools:</h3>
 
 
